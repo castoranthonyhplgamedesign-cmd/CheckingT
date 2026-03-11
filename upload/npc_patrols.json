@@ -1,0 +1,651 @@
+{
+    "npcs": [
+        {
+            "name": "Bloomjaw01",
+            "characterType": "Bloomjaw",
+            "patrolType": "waypoint",
+            "posX": 62.34754943847656,
+            "posY": 17.799999237060548,
+            "posZ": 67.97639465332031,
+            "waypoints": [
+                {
+                    "x": 62.1666259765625,
+                    "y": 17.917999267578126,
+                    "z": 66.19859313964844
+                },
+                {
+                    "x": 70.12962341308594,
+                    "y": 17.917999267578126,
+                    "z": 70.74259185791016
+                },
+                {
+                    "x": 61.87962341308594,
+                    "y": 17.917999267578126,
+                    "z": 71.66259765625
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Spory02",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 143.55252075195313,
+            "posY": 4.471097946166992,
+            "posZ": -25.210304260253908,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf03",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 128.4987030029297,
+            "posY": 12.106415748596192,
+            "posZ": -41.27069091796875,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Croak02",
+            "characterType": "CroakWater",
+            "patrolType": "waypoint",
+            "posX": 113.45913696289063,
+            "posY": -3.94000244140625,
+            "posZ": 107.20955657958985,
+            "waypoints": [
+                {
+                    "x": 122.37962341308594,
+                    "y": -3.917814254760742,
+                    "z": 109.33258819580078
+                },
+                {
+                    "x": 128.62962341308595,
+                    "y": -3.917814254760742,
+                    "z": 117.61258697509766
+                },
+                {
+                    "x": 134.91961669921876,
+                    "y": -3.917814254760742,
+                    "z": 106.89258575439453
+                },
+                {
+                    "x": 119.15962219238281,
+                    "y": -3.917814254760742,
+                    "z": 100.6825942993164
+                },
+                {
+                    "x": 111.74961853027344,
+                    "y": -3.917814254760742,
+                    "z": 103.98259735107422
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Spory01",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 105.20779418945313,
+            "posY": 10.00872802734375,
+            "posZ": 57.56568145751953,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf02",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 89.12279510498047,
+            "posY": 15.800000190734864,
+            "posZ": -47.97309875488281,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Myco01",
+            "characterType": "Myco",
+            "patrolType": "waypoint",
+            "posX": 111.27523803710938,
+            "posY": 4.254878044128418,
+            "posZ": 2.9157638549804689,
+            "waypoints": [
+                {
+                    "x": 111.3116226196289,
+                    "y": 19.12918472290039,
+                    "z": 2.9125938415527345
+                },
+                {
+                    "x": 111.29862213134766,
+                    "y": 3.657184600830078,
+                    "z": 2.8895950317382814
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf02",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 109.40848541259766,
+            "posY": 3.5363712310791017,
+            "posZ": 5.142818450927734,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Croak04",
+            "characterType": "CroakWater",
+            "patrolType": "waypoint",
+            "posX": 148.74676513671876,
+            "posY": -3.9400062561035158,
+            "posZ": 95.30829620361328,
+            "waypoints": [
+                {
+                    "x": 146.01962280273438,
+                    "y": -3.917814254760742,
+                    "z": 103.55260467529297
+                },
+                {
+                    "x": 156.64962768554688,
+                    "y": -3.917814254760742,
+                    "z": 105.96259307861328
+                },
+                {
+                    "x": 162.379638671875,
+                    "y": -3.917814254760742,
+                    "z": 96.15259552001953
+                },
+                {
+                    "x": 147.17962646484376,
+                    "y": -3.917814254760742,
+                    "z": 89.03260040283203
+                },
+                {
+                    "x": 139.76962280273438,
+                    "y": -3.917814254760742,
+                    "z": 92.33260345458985
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "StaticGranitus",
+            "characterType": "StaticCharacter",
+            "patrolType": "idle",
+            "posX": 71.37999725341797,
+            "posY": 14.5391845703125,
+            "posZ": 7.040000915527344,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf01",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 112.54076385498047,
+            "posY": 14.562478065490723,
+            "posZ": 4.693286895751953,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "StaticGranitus (2)",
+            "characterType": "StaticCharacter",
+            "patrolType": "idle",
+            "posX": 78.56999969482422,
+            "posY": 13.803597450256348,
+            "posZ": 4.900001525878906,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Granitus01",
+            "characterType": "Chaser",
+            "patrolType": "idle",
+            "posX": 141.3790740966797,
+            "posY": 1.8068561553955079,
+            "posZ": 34.694419860839847,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Myco03",
+            "characterType": "Myco",
+            "patrolType": "waypoint",
+            "posX": 118.45562744140625,
+            "posY": 2.421184539794922,
+            "posZ": -33.54940414428711,
+            "waypoints": [
+                {
+                    "x": 118.26162719726563,
+                    "y": 2.461184501647949,
+                    "z": -22.849403381347658
+                },
+                {
+                    "x": 118.46762084960938,
+                    "y": 2.4001846313476564,
+                    "z": -33.739402770996097
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "StaticGranitus (1)",
+            "characterType": "StaticCharacter",
+            "patrolType": "idle",
+            "posX": 71.41000366210938,
+            "posY": 14.5391845703125,
+            "posZ": 11.360000610351563,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Myco02",
+            "characterType": "Myco",
+            "patrolType": "waypoint",
+            "posX": 104.53099822998047,
+            "posY": 2.008999824523926,
+            "posZ": 41.277000427246097,
+            "waypoints": [
+                {
+                    "x": 106.3396224975586,
+                    "y": 7.359184741973877,
+                    "z": 41.16859436035156
+                },
+                {
+                    "x": 104.60962677001953,
+                    "y": 1.989184856414795,
+                    "z": 41.13859558105469
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Bloomjaw02",
+            "characterType": "Bloomjaw",
+            "patrolType": "waypoint",
+            "posX": 126.51020050048828,
+            "posY": 16.799999237060548,
+            "posZ": -27.608823776245118,
+            "waypoints": [
+                {
+                    "x": 122.56099700927735,
+                    "y": 16.923999786376954,
+                    "z": -24.222999572753908
+                },
+                {
+                    "x": 127.22962951660156,
+                    "y": 16.923999786376954,
+                    "z": -32.08740234375
+                },
+                {
+                    "x": 122.14962768554688,
+                    "y": 16.923999786376954,
+                    "z": -29.22740364074707
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Spory03",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 53.47905731201172,
+            "posY": 13.910333633422852,
+            "posZ": 58.066871643066409,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf01 (1)",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 132.5433349609375,
+            "posY": 5.83671760559082,
+            "posZ": 16.841217041015626,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Spory01",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 126.1429672241211,
+            "posY": 12.142839431762696,
+            "posZ": -16.163095474243165,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Granitus03",
+            "characterType": "Chaser",
+            "patrolType": "idle",
+            "posX": 97.73765563964844,
+            "posY": 3.8861351013183595,
+            "posZ": 5.656421661376953,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Croak05",
+            "characterType": "CroakWater",
+            "patrolType": "waypoint",
+            "posX": 110.13999938964844,
+            "posY": -3.9399986267089845,
+            "posZ": -20.739999771118165,
+            "waypoints": [
+                {
+                    "x": 109.68962097167969,
+                    "y": -3.917814254760742,
+                    "z": -16.007404327392579
+                },
+                {
+                    "x": 114.25962829589844,
+                    "y": -3.917814254760742,
+                    "z": -3.9774017333984377
+                },
+                {
+                    "x": 114.87962341308594,
+                    "y": -3.917814254760742,
+                    "z": -16.007404327392579
+                },
+                {
+                    "x": 105.30962371826172,
+                    "y": -3.917814254760742,
+                    "z": -21.987403869628908
+                },
+                {
+                    "x": 114.859619140625,
+                    "y": -3.917814254760742,
+                    "z": -22.237403869628908
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "CroakusTheGreat",
+            "characterType": "CroakusTheGreat",
+            "patrolType": "idle",
+            "posX": 74.02962493896485,
+            "posY": 13.87387466430664,
+            "posZ": 9.66259765625,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Spory02",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 71.61418914794922,
+            "posY": 13.884471893310547,
+            "posZ": 17.67517852783203,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Bloomjaw03",
+            "characterType": "Bloomjaw",
+            "patrolType": "waypoint",
+            "posX": 73.08206176757813,
+            "posY": 11.897159576416016,
+            "posZ": -33.450958251953128,
+            "waypoints": [
+                {
+                    "x": 72.68362426757813,
+                    "y": 12.022184371948243,
+                    "z": -30.719404220581056
+                },
+                {
+                    "x": 73.26962280273438,
+                    "y": 12.022184371948243,
+                    "z": -33.38740539550781
+                },
+                {
+                    "x": 81.77662658691406,
+                    "y": 12.022184371948243,
+                    "z": -30.83040428161621
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Granitus02",
+            "characterType": "Chaser",
+            "patrolType": "idle",
+            "posX": 83.29896545410156,
+            "posY": 5.920984268188477,
+            "posZ": 50.392730712890628,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf03",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 66.0888442993164,
+            "posY": 13.982080459594727,
+            "posZ": 46.681434631347659,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf01",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 122.37689208984375,
+            "posY": 7.889898300170898,
+            "posZ": 67.85498046875,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Croak01",
+            "characterType": "CroakWater",
+            "patrolType": "waypoint",
+            "posX": 37.452056884765628,
+            "posY": -3.9399948120117189,
+            "posZ": 8.433059692382813,
+            "waypoints": [
+                {
+                    "x": 40.459625244140628,
+                    "y": -3.917814254760742,
+                    "z": 14.81259536743164
+                },
+                {
+                    "x": 49.33662414550781,
+                    "y": -3.917814254760742,
+                    "z": 15.539596557617188
+                },
+                {
+                    "x": 50.51962661743164,
+                    "y": -3.917814254760742,
+                    "z": 5.47259521484375
+                },
+                {
+                    "x": 45.4896240234375,
+                    "y": -3.917814254760742,
+                    "z": 1.1025962829589844
+                },
+                {
+                    "x": 35.4796257019043,
+                    "y": -3.917814254760742,
+                    "z": 8.142593383789063
+                }
+            ],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "StaticGranitus (3)",
+            "characterType": "StaticCharacter",
+            "patrolType": "idle",
+            "posX": 79.30000305175781,
+            "posY": 13.803597450256348,
+            "posZ": 12.979999542236329,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Spory03",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 147.8920135498047,
+            "posY": 5.893213272094727,
+            "posZ": 29.918128967285158,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf01",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 60.920440673828128,
+            "posY": 12.003782272338868,
+            "posZ": -13.70779800415039,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        },
+        {
+            "name": "Elf03",
+            "characterType": "BonusSeeker",
+            "patrolType": "idle",
+            "posX": 123.37462615966797,
+            "posY": 1.8172760009765626,
+            "posZ": 17.32105255126953,
+            "waypoints": [],
+            "moveSpeed": 1.0,
+            "runSpeed": 2.0,
+            "rotateSpeed": 120.0,
+            "cooldown": 3.0,
+            "maxCooldown": 7.0
+        }
+    ]
+}
